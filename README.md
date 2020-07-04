@@ -1,5 +1,4 @@
-# RL-Project-Cab-Driver
-
+# Decision Making with Reinforcement Learning For a Ride Hailing Company
 ### Business Objective
 Develop an RL model to assist Cab drivers. This is to maximise profits for the industry while also help retain and encourage more cab drivers. 
 The goal of the project is to maximise cab driver profits and help with the decision making process. 
