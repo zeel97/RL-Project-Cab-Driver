@@ -14,3 +14,4 @@ battery used in moving from pickup point 𝑝 to drop point 𝑞) - (Cost of bat
 2. Using Architecture 2 (where the input is the state, and output is the probability of the respective actions)
 3. Track for Convergence
  
+Note: This work was a part of a group project
